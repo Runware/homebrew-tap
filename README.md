@@ -3,5 +3,5 @@
 Homebrew Formulae to @runware binaries, powered by @goreleaser
 
 ```sh
-brew install runware/tap/goreleaser
+brew install runware/tap/runware
 ```
